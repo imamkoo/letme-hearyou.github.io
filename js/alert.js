@@ -1,5 +1,5 @@
 const scriptURL =
-  "https://script.google.com/macros/s/AKfycbwOQLk2UqLq3tjyLND1nFVYofaNbww9WbaRmBJ2TluRTehdtcbBC95ORoSOJZ4M_FxglA/exec";
+  "https://script.google.com/macros/s/AKfycbwdnJXZgCsx6tO2iyYQQuUTR3a5TjY8jG-433hGl5tqVYoAbAdbe2MQXX3rhbJLvsg8CA/exec";
 const form = document.forms["submit-to-google-sheet"];
 const btnKirim = document.querySelector(".btn-kirim");
 const btnLoading = document.querySelector(".btn-loading");
